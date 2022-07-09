@@ -1,0 +1,17 @@
+{
+  "scripts": {
+    "build": "ts-node-esm build"
+  },
+  "type": "module",
+  "dependencies": {
+    "@resvg/resvg-js": "^2.1.0",
+    "@types/node": "^18.0.3",
+    "@types/svgo": "^2.6.3",
+    "fast-glob": "^3.2.11",
+    "favicons": "7.0.0-beta.4",
+    "png-to-ico": "^2.1.4",
+    "svgo": "^2.8.0",
+    "ts-node": "^10.8.2",
+    "typescript": "^4.7.4"
+  }
+}
