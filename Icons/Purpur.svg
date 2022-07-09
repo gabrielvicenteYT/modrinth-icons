@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <rect id="Purpur" x="0" y="0" width="24" height="24" style="fill:none;"/>
+    <path d="M12,2.368L3,6.917L12,11.945L21,6.917L12,2.368Z" style="fill:none;stroke:#000;stroke-width:2px;"/>
+    <path d="M21,11.945L12,16.972L3,11.945" style="fill:none;stroke:#000;stroke-width:2px;"/>
+    <path d="M7.5,4.643L16.5,9.431L16.5,19.486" style="fill:none;stroke:#000;stroke-width:2px;"/>
+    <path d="M7.5,19.486L7.5,9.431L16.5,4.643" style="fill:none;stroke:#000;stroke-width:2px;"/>
+    <path d="M12,11.945L21,6.917L21,16.972L12,22L12,11.945Z" style="fill:none;stroke:#000;stroke-width:2px;"/>
+    <path d="M12,11.945L3,6.917L3,16.972L12,22L12,11.945Z" style="fill:none;stroke:#000;stroke-width:2px;"/>
+</svg>

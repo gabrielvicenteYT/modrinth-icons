@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
+    <rect id="Transportation" x="0" y="0" width="24" height="24" style="fill:none;"/>
+    <g>
+        <circle cx="8.822" cy="5.773" r="0.832" style="stroke:#000;stroke-width:2px;"/>
+        <path d="M3.832,19.912L6.327,16.585M11.317,19.912L9.654,16.585L7.158,14.09L7.99,9.1" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:2px;"/>
+        <path d="M3,12.426L4.663,9.931L7.99,9.1L10.485,11.595L12.98,12.426" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:2px;"/>
+    </g>
+    <ellipse cx="18.559" cy="12" rx="2.441" ry="9" style="fill:none;stroke:#000;stroke-width:2px;stroke-miterlimit:1.5;"/>
+</svg>
