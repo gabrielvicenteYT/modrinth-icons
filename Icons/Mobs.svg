@@ -1,9 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="Mobs" x="0" y="0" width="24" height="24" style="fill:none;"/>
-    <rect x="3" y="3" width="18" height="18" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <rect x="6" y="6" width="3.967" height="3.967"/>
-    <rect x="14.033" y="6" width="3.967" height="3.967"/>
-    <path d="M10,10L14.033,10L14.033,12L16.033,12L16.033,18L14.033,18L14.033,16L10,16L10,18L8,18L8,12L10,12L10,10Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path fill="none" stroke="#000" stroke-width="2" d="M3 3h18v18H3z"/><path d="M6 6h3.967v3.967H6zm8.033 0H18v3.967h-3.967zM10 10h4.033v2h2v6h-2v-2H10v2H8v-6h2v-2Z"/></svg>

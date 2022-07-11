@@ -28,3 +28,7 @@ Both light and dark variants of the Modrinth logo are provided. "Light" and "dar
 Put simply, [icons](./Icons/) are licensed under *CC-BY-SA-4.0*, and [branding](./Branding/) is *All rights reserved*. Refer to each subdirectory's `LICENSE.txt` for the appropriate license.
 
 <img alt="Creative Commons License" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+
+## Contributing
+
+Follow the [contributing guide](./CONTRIBUTING.md) to get started. Before modifying existing art, you may want to talk over proposed changes in Modrinth's Discord.

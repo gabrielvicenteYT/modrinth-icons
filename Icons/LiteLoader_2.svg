@@ -1,12 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.5;">
-    <rect id="LiteLoader" x="0" y="0" width="24" height="24" style="fill:none;"/>
-    <rect x="5.333" y="3" width="13.333" height="6.667" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M5.333,6.333L8.667,6.333L8.667,9.667" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M15.333,9.667L15.333,6.333L18.667,6.333" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M5.333,9.667L5.333,16.333L18.667,16.333L18.667,9.667" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M8.667,16.333L8.667,21L15.333,21L15.333,16.333" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M17,21L18.667,21L18.667,16.333" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M7,21L5.333,21L5.333,16.333" style="fill:none;stroke:#000;stroke-width:2px;"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.5" clip-rule="evenodd" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><path fill="none" stroke="#000" stroke-width="2" d="M5.333 3h13.333v6.667H5.333z"/><path fill="none" stroke="#000" stroke-width="2" d="M5.333 6.333h3.334v3.334m6.666 0V6.333h3.334M5.333 9.667v6.666h13.334V9.667m-10 6.666V21h6.666v-4.667M17 21h1.667v-4.667M7 21H5.333v-4.667"/></svg>

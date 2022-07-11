@@ -1,8 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;">
-    <rect id="Transportation" x="0" y="0" width="24" height="24" style="fill:none;"/>
-    <circle cx="5.5" cy="17" r="3.5" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <circle cx="18.5" cy="17" r="3.5" style="fill:none;stroke:#000;stroke-width:2px;"/>
-    <path d="M15,5.5C15.549,5.5 16,5.049 16,4.5C16,3.951 15.549,3.5 15,3.5C14.451,3.5 14,3.951 14,4.5C14,5.049 14.451,5.5 15,5.5ZM12,17L12,13.5L9,10.5L13,7.5L15,10.5L17,10.5" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:2px;"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round" clip-rule="evenodd" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><circle cx="5.5" cy="17" r="3.5" fill="none" stroke="#000" stroke-width="2"/><circle cx="18.5" cy="17" r="3.5" fill="none" stroke="#000" stroke-width="2"/><path fill="none" stroke="#000" stroke-width="2" d="M15 5.5c.549 0 1-.451 1-1 0-.549-.451-1-1-1-.549 0-1 .451-1 1 0 .549.451 1 1 1ZM12 17v-3.5l-3-3 4-3 2 3h2"/></svg>

@@ -1,11 +1,1 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;">
-    <rect id="Transportation" x="0" y="0" width="24" height="24" style="fill:none;"/>
-    <clipPath id="_clip1">
-        <rect x="0" y="0" width="24" height="24"/>
-    </clipPath>
-    <g clip-path="url(#_clip1)">
-        <path id="_4-turns" serif:id="4 turns" d="M11.712,10.477C11.556,9.669 10.529,9.511 9.896,9.816C8.764,10.363 8.592,11.858 9.201,12.854C10.095,14.316 12.113,14.504 13.461,13.582C15.257,12.353 15.462,9.796 14.222,8.101C12.663,5.968 9.561,5.747 7.52,7.306C5.047,9.194 4.811,12.845 6.691,15.231C8.906,18.042 13.107,18.294 15.837,16.093C18.989,13.552 19.256,8.798 16.733,5.725C13.867,2.233 8.56,1.95 5.143,4.795C1.311,7.987 1.013,13.847 4.18,17.607C7.697,21.78 14.112,22.094 18.214,18.603C22.729,14.762 23.056,7.793 19.244,3.348" style="fill:none;fill-rule:nonzero;stroke:#000;stroke-width:2px;"/>
-    </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" fill-rule="evenodd" stroke-linecap="round" clip-rule="evenodd" viewBox="0 0 24 24"><path fill="none" d="M0 0h24v24H0z"/><clipPath id="a"><path d="M0 0h24v24H0z"/></clipPath><g clip-path="url(#a)"><path fill="none" stroke="#000" stroke-width="2" d="M11.712 10.477c-.156-.808-1.183-.966-1.816-.661-1.132.547-1.304 2.042-.695 3.038.894 1.462 2.912 1.65 4.26.728 1.796-1.229 2.001-3.786.761-5.481-1.559-2.133-4.661-2.354-6.702-.795-2.473 1.888-2.709 5.539-.829 7.925 2.215 2.811 6.416 3.063 9.146.862 3.152-2.541 3.419-7.295.896-10.368-2.866-3.492-8.173-3.775-11.59-.93-3.832 3.192-4.13 9.052-.963 12.812 3.517 4.173 9.932 4.487 14.034.996 4.515-3.841 4.842-10.81 1.03-15.255"/></g></svg>
